@@ -1,0 +1,7 @@
+D:\CODING\30dayschallengeCsharp\Drawing a Shape\Drawing a Shape\bin\Debug\Drawing a Shape.exe.config
+D:\CODING\30dayschallengeCsharp\Drawing a Shape\Drawing a Shape\bin\Debug\Drawing a Shape.exe
+D:\CODING\30dayschallengeCsharp\Drawing a Shape\Drawing a Shape\bin\Debug\Drawing a Shape.pdb
+D:\CODING\30dayschallengeCsharp\Drawing a Shape\Drawing a Shape\obj\Debug\Drawing a Shape.csproj.AssemblyReference.cache
+D:\CODING\30dayschallengeCsharp\Drawing a Shape\Drawing a Shape\obj\Debug\Drawing a Shape.csproj.CoreCompileInputs.cache
+D:\CODING\30dayschallengeCsharp\Drawing a Shape\Drawing a Shape\obj\Debug\Drawing a Shape.exe
+D:\CODING\30dayschallengeCsharp\Drawing a Shape\Drawing a Shape\obj\Debug\Drawing a Shape.pdb
