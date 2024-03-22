@@ -1,0 +1,7 @@
+D:\CODING\30dayschallengeCsharp\String\String\bin\Debug\String.exe.config
+D:\CODING\30dayschallengeCsharp\String\String\bin\Debug\String.exe
+D:\CODING\30dayschallengeCsharp\String\String\bin\Debug\String.pdb
+D:\CODING\30dayschallengeCsharp\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+D:\CODING\30dayschallengeCsharp\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\CODING\30dayschallengeCsharp\String\String\obj\Debug\String.exe
+D:\CODING\30dayschallengeCsharp\String\String\obj\Debug\String.pdb
