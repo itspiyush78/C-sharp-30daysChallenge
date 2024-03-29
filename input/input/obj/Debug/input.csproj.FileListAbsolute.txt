@@ -1,0 +1,7 @@
+D:\CODING\30dayschallengeCsharp\input\input\bin\Debug\input.exe.config
+D:\CODING\30dayschallengeCsharp\input\input\bin\Debug\input.exe
+D:\CODING\30dayschallengeCsharp\input\input\bin\Debug\input.pdb
+D:\CODING\30dayschallengeCsharp\input\input\obj\Debug\input.csproj.AssemblyReference.cache
+D:\CODING\30dayschallengeCsharp\input\input\obj\Debug\input.csproj.CoreCompileInputs.cache
+D:\CODING\30dayschallengeCsharp\input\input\obj\Debug\input.exe
+D:\CODING\30dayschallengeCsharp\input\input\obj\Debug\input.pdb
