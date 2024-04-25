@@ -1,0 +1,7 @@
+D:\CODING\30dayschallengeCsharp\Better Calculator\Better Calculator\bin\Debug\Better Calculator.exe.config
+D:\CODING\30dayschallengeCsharp\Better Calculator\Better Calculator\bin\Debug\Better Calculator.exe
+D:\CODING\30dayschallengeCsharp\Better Calculator\Better Calculator\bin\Debug\Better Calculator.pdb
+D:\CODING\30dayschallengeCsharp\Better Calculator\Better Calculator\obj\Debug\Better Calculator.csproj.AssemblyReference.cache
+D:\CODING\30dayschallengeCsharp\Better Calculator\Better Calculator\obj\Debug\Better Calculator.csproj.CoreCompileInputs.cache
+D:\CODING\30dayschallengeCsharp\Better Calculator\Better Calculator\obj\Debug\Better Calculator.exe
+D:\CODING\30dayschallengeCsharp\Better Calculator\Better Calculator\obj\Debug\Better Calculator.pdb
