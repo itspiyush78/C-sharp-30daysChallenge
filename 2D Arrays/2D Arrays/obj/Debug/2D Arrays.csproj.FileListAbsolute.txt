@@ -1,0 +1,7 @@
+D:\CODING\30dayschallengeCsharp\2D Arrays\2D Arrays\bin\Debug\2D Arrays.exe.config
+D:\CODING\30dayschallengeCsharp\2D Arrays\2D Arrays\bin\Debug\2D Arrays.exe
+D:\CODING\30dayschallengeCsharp\2D Arrays\2D Arrays\bin\Debug\2D Arrays.pdb
+D:\CODING\30dayschallengeCsharp\2D Arrays\2D Arrays\obj\Debug\2D Arrays.csproj.AssemblyReference.cache
+D:\CODING\30dayschallengeCsharp\2D Arrays\2D Arrays\obj\Debug\2D Arrays.csproj.CoreCompileInputs.cache
+D:\CODING\30dayschallengeCsharp\2D Arrays\2D Arrays\obj\Debug\2D Arrays.exe
+D:\CODING\30dayschallengeCsharp\2D Arrays\2D Arrays\obj\Debug\2D Arrays.pdb
