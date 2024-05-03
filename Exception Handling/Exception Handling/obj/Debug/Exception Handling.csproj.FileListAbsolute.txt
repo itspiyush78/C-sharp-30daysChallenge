@@ -1,0 +1,7 @@
+D:\CODING\30dayschallengeCsharp\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe.config
+D:\CODING\30dayschallengeCsharp\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe
+D:\CODING\30dayschallengeCsharp\Exception Handling\Exception Handling\bin\Debug\Exception Handling.pdb
+D:\CODING\30dayschallengeCsharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.AssemblyReference.cache
+D:\CODING\30dayschallengeCsharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+D:\CODING\30dayschallengeCsharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.exe
+D:\CODING\30dayschallengeCsharp\Exception Handling\Exception Handling\obj\Debug\Exception Handling.pdb
